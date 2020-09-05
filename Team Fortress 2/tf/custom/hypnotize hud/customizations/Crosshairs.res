@@ -20,12 +20,12 @@
 		
 		"xpos"      								"c-14"
 		"ypos"      								"c-12"
-		"wide"      								"25"
+		"wide"      								"24"
 		"tall"      								"24"
 		
 		"fgcolor"    								"Crosshair"
 		"labelText"    								"x"
-		"font"      								"seeker11"				//Alternative Sizes: Seeker9-10-11-12-SeekerShadow
+		"font"      								"Seeker12"				//Alternative Sizes: Seeker9-10-11-12-SeekerShadow
 		
 		"controlName"  								"CExLabel"
 		"fieldName"     							"SeekerCrosshair"
@@ -40,12 +40,12 @@
 		
 		"xpos"      								"c-14"
 		"ypos"      								"c-12"
-		"wide"      								"26"
-		"tall"      								"25"
+		"wide"      								"25"
+		"tall"      								"24"
 		
 		"fgcolor"    								"Black"
 		"labelText"    								"x"
-		"font"      								"seeker11Blur"
+		"font"      								"seeker10blur"
 		
 		"controlName"  								"CExLabel"
 		"fieldName"     							"SeekerCrosshairShadow"
@@ -458,7 +458,7 @@
 		
 		"fgcolor"									"Crosshair"
 		"labelText"									"n"
-		"font"										"size: 22, outline: off"
+		"font"										"size: 25, outline: on"
 		
 		"controlName"								"CExLabel"
 		"fieldName"									"Round Brackets With Dot"
@@ -495,37 +495,37 @@
 	//////////////////////////////KNUCKLES CROSSHAIRS//////////////////////////////
 	///////////////////////////////////////////////////////////////////////////////
 	
-	"Knuckles Crosshairs"
+	"Knuckles Crosshairs 1"
 	{
-		"visible" 									"0"
+		"visible" 									"1"
 		
 		"xpos" 		 								"c-25"
-		"ypos" 		 								"c-24"
+		"ypos" 		 								"c-25"
 		"wide" 		 								"50"
 		"tall" 		 								"50"
 		
 		"fgcolor" 									"Crosshair"
-		"labelText"									"l"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
-		"font"										"size:20,outline:off"
+		"labelText"									"d"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
+		"font"										"size:10,outline:off"
 		
 		"controlName"								"CExLabel"
-		"fieldName"	 								"Knuckles Crosshairs"
+		"fieldName"	 								"Knuckles Crosshairs 1"
 		"textAlignment"								"center"
 		"enabled" 									"1"
 		"zpos"										"1"
 	}
-		"Knuckles Crosshairs 2"
+	"Knuckles Crosshairs 2"
 	{
-		"visible" 									"0"
+		"visible" 									"1"
 		
 		"xpos" 		 								"c-25"
-		"ypos" 		 								"c-24"
+		"ypos" 		 								"c-25"
 		"wide" 		 								"50"
 		"tall" 		 								"50"
 		
-		"fgcolor" 									"0 255 0 255"
+		"fgcolor" 									"Crosshair"
 		"labelText"									"w"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
-		"font"										"size:30,outline:off"
+		"font"										"size:25,outline:off"
 		
 		"controlName"								"CExLabel"
 		"fieldName"	 								"Knuckles Crosshairs 2"

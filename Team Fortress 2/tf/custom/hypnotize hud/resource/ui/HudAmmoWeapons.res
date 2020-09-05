@@ -49,8 +49,8 @@
 		"xpos"										"-2"
 		"ypos"										"-2"
 		"zpos"										"5"
-		"wide"										"80"
 		"wide_minmode"								"79"
+		"wide"										"80"
 		"tall"										"50"
 		"tall_minmode"								"49"
 		"visible"									"0"
@@ -69,7 +69,7 @@
 		"font_minmode"								"GameFont18"
 		"fgcolor"									"Ammo In Reserve"
 		"xpos"										"5"
-		"xpos_minmode"								"5"
+		"xpos_minmode"								"3"
 		"ypos"										"0"
 		"ypos_minmode"								"0"
 		"zpos"										"7"
@@ -151,7 +151,31 @@
 		"pin_to_sibling" 							"AmmoNoClip"
 	}
 	
-	
+	"LowAmmoBG"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"LowAmmoBG"
+		"xpos"										"-29"
+		"xpos_minmode"								"-40"
+		"ypos"										"-4"
+		"ypos_minmode"								"-8"
+		"zpos"										"1"
+		"wide"										"93"
+		"wide_minmode"								"72"
+		"tall"	 									"40"
+		"tall_minmode"	 							"33"
+		"autoResize"								"0"
+		"paintbackground"							"0"
+		"pinCorner"									"0"
+		"visible"									"1"
+		"enabled"									"1"
+		"alpha"										"0"
+		
+		"border"									"HurtBorder"
+		"scaleImage"								"1"
+		
+		"pin_to_sibling" 							"AmmoNoClip"
+	}
 	
 	
 	

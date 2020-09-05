@@ -64,9 +64,9 @@
 		"ypos"	    		         				"-2"	
 		"zpos"	    		         				"5"
 		"wide"		    	         				"150"
-		"wide_minmode"								"159"
+		"wide_minmode"		    	         		"149"
 		"tall"		    	         				"50"
-		"tall_minmode"								"49"
+		"tall_minmode"		    	         		"49"
 		"visible"	    	         				"1"
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"
@@ -74,6 +74,58 @@
 		"font"                   				 	"GameFont44Blur"
 		"font_minmode"                   			"GameFont32Blur"
 		"fgcolor"	     	         				"Shadow"
+		
+		"pin_to_sibling" 							"PlayerStatusHealthValue"
+	}
+	
+	"HealthBuff"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"HealthBuff"
+		"xpos"										"-29"
+		"xpos_minmode"								"-40"
+		"ypos"										"-4"
+		"ypos_minmode"								"-8"
+		"zpos"										"1"
+		"wide"										"90"
+		"wide_minmode"								"70"
+		"tall"	 									"40"
+		"tall_minmode"	 							"33"
+		"autoResize"								"0"
+		"paintbackground"							"0"
+		"pinCorner"									"0"
+		"visible"									"1"
+		"enabled"									"1"
+		"alpha"										"0"
+		
+		"border"									"BuffedBorder"
+		"scaleImage"								"1"
+		
+		"pin_to_sibling" 							"PlayerStatusHealthValue"
+	}
+	
+	"HealthHurt"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"HealthHurt"
+		"xpos"										"-29"
+		"xpos_minmode"								"-40"
+		"ypos"										"-4"
+		"ypos_minmode"								"-8"
+		"zpos"										"1"
+		"wide"										"90"
+		"wide_minmode"								"70"
+		"tall"	 									"40"
+		"tall_minmode"	 							"33"
+		"autoResize"								"0"
+		"paintbackground"							"0"
+		"pinCorner"									"0"
+		"visible"									"1"
+		"enabled"									"1"
+		"alpha"										"0"
+		
+		"border"									"HurtBorder"
+		"scaleImage"								"1"
 		
 		"pin_to_sibling" 							"PlayerStatusHealthValue"
 	}
