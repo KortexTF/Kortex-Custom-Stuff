@@ -23,7 +23,7 @@
 		"wide"      								"24"
 		"tall"      								"24"
 		
-		"fgcolor"    								"Crosshair"
+		"fgcolor"    								"0 255 0 255"
 		"labelText"    								"x"
 		"font"      								"Seeker12"				//Alternative Sizes: Seeker9-10-11-12-SeekerShadow
 		
@@ -497,16 +497,16 @@
 	
 	"Knuckles Crosshairs 1"
 	{
-		"visible" 									"1"
+		"visible" 									"0"
 		
 		"xpos" 		 								"c-25"
 		"ypos" 		 								"c-25"
 		"wide" 		 								"50"
 		"tall" 		 								"50"
 		
-		"fgcolor" 									"Crosshair"
-		"labelText"									"d"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
-		"font"										"size:10,outline:off"
+		"fgcolor" 									"0 255 0 255"
+		"labelText"									"l"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
+		"font"										"size:12,outline:off"
 		
 		"controlName"								"CExLabel"
 		"fieldName"	 								"Knuckles Crosshairs 1"
@@ -516,16 +516,16 @@
 	}
 	"Knuckles Crosshairs 2"
 	{
-		"visible" 									"1"
+		"visible" 									"0"
 		
 		"xpos" 		 								"c-25"
 		"ypos" 		 								"c-25"
 		"wide" 		 								"50"
 		"tall" 		 								"50"
 		
-		"fgcolor" 									"Crosshair"
-		"labelText"									"w"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
-		"font"										"size:25,outline:off"
+		"fgcolor" 									"0 255 0 255"
+		"labelText"									"a"						//You can change this to use a different crosshair, see the list of crosshairs in Crosshairs.png
+		"font"										"size:20,outline:off"
 		
 		"controlName"								"CExLabel"
 		"fieldName"	 								"Knuckles Crosshairs 2"

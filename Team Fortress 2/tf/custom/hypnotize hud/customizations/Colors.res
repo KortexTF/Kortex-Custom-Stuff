@@ -2,8 +2,8 @@ Scheme
 {
 	Colors
 	{
-		"Crosshair"											"0 255 0 255"
-		"Crosshair Pulse"									"0 255 0 255"
+		"Crosshair"											"0 255 0"
+		"Crosshair Pulse"									"0 255 0"
 		
 		"HitMarker"											"0 255 0 255"
 		

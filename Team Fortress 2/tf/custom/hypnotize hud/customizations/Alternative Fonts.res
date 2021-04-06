@@ -13,10 +13,10 @@
 //#base "../resource/scheme/Fonts_Avenir.res"
 //#base "../resource/scheme/Fonts_Cerbetica.res"
 //#base "../resource/scheme/Fonts_Neutra.res"
-//#base "../resource/scheme/Fonts_Nexa.res"			//DEFAULT HYPNOTIZE HUD FONT
+#base "../resource/scheme/Fonts_Nexa.res"			//DEFAULT HYPNOTIZE HUD FONT
 //#base "../resource/scheme/Fonts_Product.res"
 //#base "../resource/scheme/Fonts_Quake.res"
-#base "../resource/scheme/Fonts_Renogare.res"
+//#base "../resource/scheme/Fonts_Renogare.res"
 //#base "../resource/scheme/Fonts_Roboto.res"
 //#base "../resource/scheme/Fonts_Surface.res"
 //#base "../resource/scheme/Fonts_TF2.res"

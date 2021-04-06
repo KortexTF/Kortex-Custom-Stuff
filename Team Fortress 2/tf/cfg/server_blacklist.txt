@@ -1,0 +1,39 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"CuriousJR"
+		"date"		"1573223751"
+		"addr"		"178.128.162.164:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | MGE | EU ██████"
+		"date"		"1582828706"
+		"addr"		"137.74.91.219:27016"
+	}
+	"server"
+	{
+		"name"		"Online-Wars.Ru TF2 | MGE"
+		"date"		"1586242517"
+		"addr"		"46.174.48.183:27015"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] MGE Mod | FastDL | US"
+		"date"		"1586935460"
+		"addr"		"92.119.148.52:27015"
+	}
+	"server"
+	{
+		"name"		"Panda-Community.com US | MGE"
+		"date"		"1595787218"
+		"addr"		"193.38.251.8:27015"
+	}
+	"server"
+	{
+		"name"		"melkor.tf MGE 2v2"
+		"date"		"1598106153"
+		"addr"		"151.80.108.144:27040"
+	}
+}

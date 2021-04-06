@@ -5,4 +5,4 @@ All the stuff I use to personalize my TF2.
 
 cfg contains my configs and Ingame settings.
 
-custom contains my HUD, Main Menu Background and Hit/Killsounds.
+custom contains my HUD, Crosshairs, Main Menu Background, mastercomfig preset, prec and Hit/Killsounds.
