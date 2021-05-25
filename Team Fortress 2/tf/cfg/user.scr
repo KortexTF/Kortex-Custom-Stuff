@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Fri Apr  2 23:19:36 AM
+// File generated:  Fri May 21 20:52:50 AM
 //
 //
 // Cvar	-	Setting
@@ -156,7 +156,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_Volume"
 		"#Tooltip_Dingaling_Volume"
 		{ SLIDER 0 1 }
-		{ "0.5" }
+		{ "1" }
 	}
 
 	"tf_dingalingaling_last_effect"
@@ -254,7 +254,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_rememberlastweapon"
 		"#Tooltip_rememberlastweapon"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"tf_sniper_fullcharge_bell"
@@ -276,7 +276,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_simple_disguise_menu_option"
 		"#Tooltip_simple_disguise_menu_option"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_autorezoom"
@@ -316,7 +316,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallers"
 		"#Tooltip_AutoMedicCallers"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"hud_medicautocallersthreshold"
@@ -324,7 +324,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "32.080002" }
+		{ "76.580002" }
 	}
 
 	"category4"
@@ -338,7 +338,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_EnableHUDMinMode"
 		"#Tooltip_EnableHUDMinMode"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_colorblindassist"
